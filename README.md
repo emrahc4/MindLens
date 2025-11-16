@@ -1,6 +1,6 @@
 # 🌌 MindLens
 ### AI-Powered Personality Engine (Text-Based)
-
+<img width="1867" height="843" alt="Image" src="https://github.com/user-attachments/assets/f24c5d2b-e8ad-4019-9281-ae8d92b327ff" />
 ───────────────────────────────────────────────
 
 ## ✨ Project Overview
